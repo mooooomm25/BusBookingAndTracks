@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bus Booking And Tracks</string>
+    <string name="تسجيل_جديد">تسجيل جديد</string>
+    <string name="دخول">دخول</string>
+    <string name="أسم_المستخدم">أسم المستخدم</string>
+    <string name="الرقم_السري">الرقم السري</string>
+    <string name="واحد_الرقم_السري">الرقم السري</string>
+    <string name="واحد_أسم_المستخدم">أسم المستخدم</string>
+    <string name="دخول_واحد">دخول</string>
+    <string name="واحد_تسجيل_جديد">تسجيل جديد</string>
+    <string name="ثاني_تسجيل_جديد">تسجيل جديد</string>
+    <string name="ثاني_دخول">دخول</string>
+    <string name="دخول_ثالث">دخول</string>
+    <string name="ثالث_تسجيل_جديد">تسجيل جديد</string>
+    <string name="موظف">موظف</string>
+    <string name="طالبة">طالبة</string>
+    <string name="todo">TODO</string>
+</resources>
